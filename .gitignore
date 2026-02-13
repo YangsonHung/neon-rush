@@ -3,6 +3,7 @@
 # Build artifacts
 build/
 DerivedData/
+run-3d.xcodeproj/
 
 # Xcode user data
 *.xcworkspace/xcuserdata/
