@@ -1,0 +1,18 @@
+.DS_Store
+
+# Build artifacts
+build/
+DerivedData/
+
+# Xcode user data
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Misc
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
